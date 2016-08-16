@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/buy/AdDivision/!svn/ver/20732/ads_quality/branches/dnn-train/draft/guowentao/shell
+END
+run_eval.sh
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/buy/AdDivision/!svn/ver/21766/ads_quality/branches/dnn-train/draft/guowentao/shell/run_eval.sh
+END
+run_io.sh
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/buy/AdDivision/!svn/ver/22293/ads_quality/branches/dnn-train/draft/guowentao/shell/run_io.sh
+END
+run_vec.sh
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/buy/AdDivision/!svn/ver/21808/ads_quality/branches/dnn-train/draft/guowentao/shell/run_vec.sh
+END
+run_model.sh
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/buy/AdDivision/!svn/ver/22293/ads_quality/branches/dnn-train/draft/guowentao/shell/run_model.sh
+END
+up.sh
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/buy/AdDivision/!svn/ver/20732/ads_quality/branches/dnn-train/draft/guowentao/shell/up.sh
+END

@@ -1,0 +1,19 @@
+运行方式
+python sku_cnn.py train_data  eval_data
+sku_cnn.py  主函数以及最终两个sku相似度的计算，cos的定义
+sku_io.py   对输入数据的转换，返回主函数需要的变量
+convolutional_mlp_pair.py  定义了输入为pair的卷积层
+mlp_pair.py  定义了输入为pair的普通层
+
+
+#上一版svn信息(只支持两路输入)
+Path: .
+URL: http://svn1.360buy-develop.com/buy/AdDivision/ads_quality/branches/dnn-train/draft/guowentao
+Repository Root: http://svn1.360buy-develop.com/buy/AdDivision
+Repository UUID: 6ac8ea2e-923c-11e3-8089-53a00898a60c
+Revision: 18008
+Node Kind: directory
+Schedule: normal
+Last Changed Author: guowentao
+Last Changed Rev: 17876
+Last Changed Date: 2015-05-14 15:55:25 +0800 (Thu, 14 May 2015)
